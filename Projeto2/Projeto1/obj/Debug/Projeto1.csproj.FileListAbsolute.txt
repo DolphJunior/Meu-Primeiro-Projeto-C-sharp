@@ -1,0 +1,6 @@
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\obj\Debug\Projeto1.csprojResolveAssemblyReference.cache
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\adolpho\Desktop\Projetos C#\Projeto2\Projeto1\obj\Debug\Projeto1.pdb
